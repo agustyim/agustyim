@@ -4,7 +4,7 @@
 <head>
   <body>
     <h1><font face=Corbel>ibnstorduction</font> </h1>
-    <p>hello guys, im a burger.</p>
+    <p>hello guys, i like burgers because theyre like so cool</p>
     <img src="https://cdn.discordapp.com/attachments/563966858462625822/966001125910261780/IMG_0393.png">
     <p>burgr.</p>
 </body>
